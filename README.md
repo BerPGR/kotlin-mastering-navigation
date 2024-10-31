@@ -41,7 +41,7 @@ O projeto está dividido em pacotes para facilitar a manutenção e a compreens�
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/BerPGR/kotlin-mastering-navigation
     ```
 2. Abra o projeto no Android Studio.
 3. Sincronize o Gradle e execute o projeto em um emulador ou dispositivo físico.
